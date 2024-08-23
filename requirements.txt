@@ -1,0 +1,7 @@
+fastapi
+pydantic
+youtube_search
+yt_dlp
+discord.py
+python-dotenv
+pynacl
